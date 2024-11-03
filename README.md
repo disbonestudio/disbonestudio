@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+
 
 Welcome to my GitHub profile! I'm a passionate [your profession or field, e.g., Software Engineer, Data Scientist] with a strong focus on [technologies or areas of expertise, e.g., Python, Machine Learning, Web Development]. Here’s a bit more about me:
 
