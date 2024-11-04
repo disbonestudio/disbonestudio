@@ -5,9 +5,9 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>👋 Hi there, I'm disbone!</h1>
+  <h1>👋 Hi there, I'm Disbon!</h1>
   <p>
-    <em>Multilingual Developer | 🛠 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer</em>
+    <em>Software Engineer | 🛠 Developer | 📜 Scripter | 💻 Troubleshooter | 🎨 Designer | 🎮 Gamer</em>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=disbonstudio&color=brightgreen" alt="Visitors" />
@@ -36,9 +36,9 @@
 <div align="center">
   <h2>👋 About Me</h2>
   <p>
-    Hello, I'm disbone, a passionate developer.<br/>
-    I speak Arabic, English, and Turkish.<br/><br/>
-    I'm dedicated to crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
+    Hello, I'm Disbon, a passionate software engineer. <br/>
+    I speak English and Spanish. <br/><br/>
+    My interests lie in creating efficient software solutions, contributing to open-source projects, and exploring new technologies. I love turning ideas into reality through code. Let’s connect and build something amazing together!
   </p>
 </div>
 
@@ -55,25 +55,25 @@
     <a href="https://github.com/disbonstudio" target="_blank">
       <img src="https://imgur.com/3ODU5lj.png" alt="GitHub" title="GitHub" width="50" height="50"/>
     </a>
-    <a href="https://www.instagram.com/officialwickstudio" target="_blank">
+    <a href="https://www.instagram.com/disbonstudio" target="_blank">
       <img src="https://imgur.com/n2oyhCP.png" alt="Instagram" title="Instagram" width="50" height="50"/>
     </a>
-    <a href="https://www.npmjs.com/~wick_studio" target="_blank">
+    <a href="https://www.npmjs.com/~disbon_studio" target="_blank">
       <img src="https://imgur.com/rVt9huZ.png" alt="NPM" title="NPM" width="50" height="50"/>
     </a>
-    <a href="https://replit.com/@wickstudio" target="_blank">
+    <a href="https://replit.com/@disbonstudio" target="_blank">
       <img src="https://imgur.com/RkgoVR3.png" alt="Replit" title="Replit" width="50" height="50"/>
     </a>
-    <a href="https://t.me/wickdev" target="_blank">
+    <a href="https://t.me/disbondev" target="_blank">
       <img src="https://imgur.com/6Y6wmmg.png" alt="Telegram" title="Telegram" width="50" height="50"/>
     </a>
-    <a href="https://x.com/Wick__Studio" target="_blank">
+    <a href="https://x.com/Disbon__Studio" target="_blank">
       <img src="https://imgur.com/1jPpy8l.png" alt="X / Twitter" title="X / Twitter" width="50" height="50"/>
     </a>
-    <a href="https://www.youtube.com/@wick_studio" target="_blank">
+    <a href="https://www.youtube.com/@disbon_studio" target="_blank">
       <img src="https://imgur.com/uYQleGv.png" alt="YouTube" title="YouTube" width="50" height="50"/>
     </a>
-    <a href="https://discord.gg/wicks" target="_blank">
+    <a href="https://discord.gg/disbons" target="_blank">
       <img src="https://imgur.com/Qcg8nxa.png" alt="Discord" title="Discord" width="50" height="50"/>
     </a>
   </p>
@@ -83,24 +83,16 @@
 <div align="center">
   <h2>😎 Notable Projects</h2>
   <p>
-    <a href="https://github.com/disbonstudio/Pc-Computer-Managementt">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord AI Chatbot" />
+    <a href="https://github.com/disbonstudio/example-project-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=example-project-1&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Example Project 1" />
     </a>
-    <a href="https://github.com/disbonstudio/share-code">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="System Information" />
+    <a href="https://github.com/disbonstudio/example-project-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=example-project-2&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Example Project 2" />
     </a>
-    <a href="https://github.com/disbonstudio/modmail-main">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
+    <a href="https://github.com/disbonstudio/example-project-3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=example-project-3&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Example Project 3" />
     </a>
-    <a href="https://github.com/disbonstudio/discord-moderator-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
-    </a>
-    <a href="https://github.com/disbonstudio/Acounts-Shop-1-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Avatar Decoration Bot" />
-    </a>
-    <a href="https://github.com/disbonstudio/discord-tutorial/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
-    </a>
+    <!-- Add more notable projects as needed -->
   </p>
 </div>
 
@@ -121,7 +113,7 @@
 <div align="center">
   <h2>🚀 Current Projects</h2>
   <p>
-    Currently enhancing <a href="https://wicksbot.com">wicksbot.com</a> and <a href="https://wick-hosting.com">wick-hosting</a>.
+    Currently working on several exciting projects focused on web development and automation tools.
   </p>
 </div>
 
@@ -129,7 +121,7 @@
 <div align="center">
   <h2>📫 Contact Me</h2>
   <p>
-    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>.
+    Feel free to reach out via any of the platforms above or email me at <a href="mailto:disbon@disbon-studio.com">disbon@disbon-studio.com</a>
   </p>
 </div>
 
@@ -140,7 +132,7 @@
     <a href="https://github.com/disbonstudio">
       <img src="https://img.shields.io/github/followers/disbonstudio?label=Follow&style=social" alt="GitHub Follow"/>
     </a>
-    <a href="https://www.buymeacoffee.com/wickstudio">
+    <a href="https://www.buymeacoffee.com/disbonstudio">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
     </a>
   </p>
