@@ -5,12 +5,12 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>👋 Hi there, I'm Wick!</h1>
+  <h1>👋 Hi there, I'm disbone!</h1>
   <p>
     <em>Multilingual Developer | 🛠 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer</em>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=wickstudio&color=brightgreen" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=disbonstudio&color=brightgreen" alt="Visitors" />
   </p>
 </div>
 
@@ -36,7 +36,7 @@
 <div align="center">
   <h2>👋 About Me</h2>
   <p>
-    Hello, I'm Wick CEO of Wick Studio <br/>
+    Hello, I'm disbone CEO of Wick Studio <br/>
     I speak Arabic, English, and Turkish. <br/><br/>
     I'm passionate about crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
   </p>
@@ -114,8 +114,8 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wickstudio&show_icons=true&theme=radical&count_private=true&hide=contribs&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickstudio&theme=radical&background=30,020614,cfb360&ring=a5a5a5&fire=a5a5a5&currStreakLabel=a5a5a5&sideNums=a5a5a5&currStreakNum=a5a5a5&dates=a5a5a5" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=disbonstudio&show_icons=true&theme=radical&count_private=true&hide=contribs&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=disbonstudio&theme=radical&background=30,020614,cfb360&ring=a5a5a5&fire=a5a5a5&currStreakLabel=a5a5a5&sideNums=a5a5a5&currStreakNum=a5a5a5&dates=a5a5a5" alt="GitHub Streak" />
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wickstudio&theme=dracula" alt="Profile Details" />
