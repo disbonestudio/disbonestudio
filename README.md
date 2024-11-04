@@ -84,29 +84,24 @@
 <div align="center">
   <h2>😎 Notable Projects</h2>
   <p>
-    <a href="https://github.com/disbonstudio/discord-ai-chatbot">
+    <a href="https://github.com/disbonstudio/Pc-Computer-Managementt">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord AI Chatbot" />
     </a>
-    <a href="https://github.com/disbonstudio/System-Information">
+    <a href="https://github.com/disbonstudio/share-code">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="System Information" />
     </a>
-    <a href="https://github.com/disbonstudio/Web-Cloner">
+    <a href="https://github.com/disbonstudio/modmail-main">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
     </a>
-    <a href="https://github.com/disbonstudio/IPExplorer">
+    <a href="https://github.com/disbonstudio/discord-moderator-bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
     </a>
-    <a href="https://github.com/disbonstudio/Discord-Avatar-Decoration-Bot">
+    <a href="https://github.com/disbonstudio/Acounts-Shop-1-1">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Avatar Decoration Bot" />
     </a>
-    <a href="https://github.com/disbonstudio/cleanup-tool">
+    <a href="https://github.com/disbonstudio/discord-tutorial/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
     </a>
-    <a href="https://github.com/disbonstudio/discord-protection-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Protection Bot" />
-    </a>
-    <a href="https://github.com/disbonstudio/discord-moderator-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Moderator Bot
 
 
 <!-- GitHub Statistics -->
