@@ -1,5 +1,4 @@
 <!-- Banner Section with Animated GIF -->
-<!-- Banner Section with Animated GIF -->
 <p align="center">
   <img src="https://imgur.com/khpDPwR.png" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </p>
@@ -37,9 +36,9 @@
 <div align="center">
   <h2>👋 About Me</h2>
   <p>
-    Hello, I'm disbone, a passionate developer. <br/>
-    I speak Arabic, English, and Turkish. <br/><br/>
-    I'm passionate about crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
+    Hello, I'm disbone, a passionate developer.<br/>
+    I speak Arabic, English, and Turkish.<br/><br/>
+    I'm dedicated to crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
   </p>
 </div>
 
@@ -102,7 +101,8 @@
     <a href="https://github.com/disbonstudio/discord-tutorial/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbonstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
     </a>
-
+  </p>
+</div>
 
 <!-- GitHub Statistics -->
 <div align="center">
@@ -121,7 +121,7 @@
 <div align="center">
   <h2>🚀 Current Projects</h2>
   <p>
-    Working on enhancing the wicksbot.com and wick-hosting.
+    Currently enhancing <a href="https://wicksbot.com">wicksbot.com</a> and <a href="https://wick-hosting.com">wick-hosting</a>.
   </p>
 </div>
 
@@ -129,7 +129,7 @@
 <div align="center">
   <h2>📫 Contact Me</h2>
   <p>
-    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>
+    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>.
   </p>
 </div>
 
@@ -145,4 +145,3 @@
     </a>
   </p>
 </div>
-
