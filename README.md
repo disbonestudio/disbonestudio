@@ -1,22 +1,28 @@
-### Hi there 👋, I am Disbone
-#### I am a Developer
-![I am a Developer](https://cdn.discordapp.com/attachments/1296487162694340644/1303062726909624392/Background.png?ex=672a633b&is=672911bb&hm=1266c239f01901421e0f5879d79d87c5018225c7b992a778f586accd07c58247&)
+<h1 align="center">Hi 👋, I'm disbone</h1>
+<h3 align="center">i am backend developer discord bot programmer</h3>
 
-I want to create a small company.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=disbonestudio&label=Profile%20views&color=0e75b6&style=flat" alt="disbonestudio" /> </p>
 
-**Skills:** NODE JS / PYTHON / JS / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disbonestudio" alt="disbonestudio" /></a> </p>
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning to program a Discord bot.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/disbonstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="disbonstudio" height="30" width="40" /></a>
+<a href="https://discord.gg/b5spPy7U8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="b5spPy7U8w" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/disbonestudio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@DisbonStudio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@disbonstudio)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disbonestudio&show_icons=true&locale=en&layout=compact" alt="disbonestudio" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=disbonestudio&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disbonestudio&show_icons=true&locale=en" alt="disbonestudio" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disbonestudio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disbonestudio&" alt="disbonestudio" /></p>
+target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=disbonestudio&show_icons=true&count_private=true&theme=dark)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disbonestudio&show_icons=true&locale=en&layout=compact" alt="disbonestudio" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=disbonestudio&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disbonestudio&show_icons=true&locale=en" alt="disbonestudio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disbonestudio&" alt="disbonestudio" /></p>
