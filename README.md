@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.youtube.com/c/disbonstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="disbonstudio" height="30" width="40" /></a>
 <a href="https://discord.gg/b5spPy7U8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="b5spPy7U8w" height="30" width="40" /></a>
-<a href="https://www.npmjs.com/~wick_studio" target="_blank">
+<a href="https://www.npmjs.com/~disbonestudio" target="_blank">
     <img align="center" src="https://imgur.com/rVt9huZ.png" alt="NPM" title="NPM" width="30" height="30"/>
 </a>
 </p>
